@@ -11,7 +11,7 @@ This document summarizes the initial exploration of the Kaggle store sales datas
 * **Latest Date:** 2017-08-15
 
 ## 3. What are the product families?		
-*
+
 1	AUTOMOTIVE
 2	BABY CARE
 3	BEAUTY
