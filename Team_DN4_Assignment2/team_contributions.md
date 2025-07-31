@@ -21,3 +21,9 @@ Worked with group in
 
 
 # Sameer: 
+
+* Developed a functioning data pipeline, adapting learnings from Lab 2, and assisted the team in following. 
+* Developed advanced models such as XGBoost to improve the performance of predictions.
+* Reviewed the DIVE analysis to uncover any shortcomings and fill those gaps with further analysis.
+* Performed analysis on Cost Optimization to extend beyond the DIVE analysis.
+* Gathered all deliverables and package them for submission.
