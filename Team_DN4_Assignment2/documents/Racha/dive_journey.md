@@ -1942,7 +1942,7 @@ print("Assign clear responsibilities and define reporting frequencies. Plan for 
     Assign clear responsibilities and define reporting frequencies. Plan for data storage and accessibility for future model retraining and analysis.
 
 
-## To improve your model based on the cost optimization analysis and mitigate financial risks, we can follow a structured approach
+## To improve the model based on the cost optimization analysis and mitigate financial risks, we can follow a structured approach
 
 
 ### Action Plan: Improving Model Accuracy for High-Error Segments
