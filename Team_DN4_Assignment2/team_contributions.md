@@ -10,7 +10,9 @@ Worked with group in
 
 * Synthesizing all technical findings and model limitations into a professional, two-page DIVE Summary Report, translating complex results into a strategic and actionable plan.
 
-* Developing and running a query to analyze the business cost of model inaccuracy, identifying the top 20 store-and-family combinations that pose the highest financial risk..
+* Developing and running a query to analyze the business cost of model inaccuracy, identifying the top 20 store-and-family combinations that pose the highest financial risk.
+
+* Refining and elevating the final DIVE report, structuring the action plan around a dual strategy for immediate business application and long-term model improvement to maximize its strategic impact.
 
 
 # Valerie:
