@@ -1,12 +1,10 @@
 # Store Sales Forecasting: DIVE Journey Report
 
-**Authors:** Rachakonda Srikanth, Sameer Yelamarthi & Valerie Robert
-
-This report documents the process and outcomes of applying the DIVE (Discover, Investigate, Validate, Extend) framework to develop and evaluate an XGBoost-based sales forecasting model on Google Cloud Platform. The goal was to predict daily store sales with high accuracy and translate technical insights into actionable business recommendations.
+This documents the process and outcomes of applying the DIVE (Discover, Investigate, Validate, Extend) framework to develop and evaluate an XGBoost-based sales forecasting model on Google Cloud Platform. The goal was to predict daily store sales with high accuracy and translate technical insights into actionable business recommendations.
 
 ---
 
-## 🔍 Discover (5 points)
+## 🔍 Discover
 
 Initial analysis focused on identifying key sales patterns. Results indicated that store sales followed a highly predictable and structured rhythm. The baseline BOOSTED_TREE_REGRESSOR model captured 79.3% of the variance with a Mean Absolute Error (MAE) of approximately $186.
 
@@ -23,7 +21,7 @@ Key findings included:
 
 ---
 
-## 🔎 Investigate (10 points)
+## 🔎 Investigate
 
 The next phase explored the underlying drivers of the discovered sales patterns:
 
@@ -35,7 +33,7 @@ These insights supported the interpretation that structural and behavioral patte
 
 ---
 
-## 🧪 Validate (10 points)
+## 🧪 Validate
 
 A critical evaluation of the model was performed to understand its assumptions, limitations, and potential failure modes:
 
@@ -48,7 +46,7 @@ These observations emphasized the need for operational sensitivity and model ref
 
 ---
 
-## 🚀 Extend (5 points)
+## 🚀 Extend
 
 Insights from the model were translated into specific, actionable strategies:
 
