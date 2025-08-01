@@ -22,8 +22,15 @@ Worked with group in
 
 # Sameer: 
 
-* Developed a functioning data pipeline, adapting learnings from Lab 2, and assisted the team in following. 
-* Developed advanced models such as XGBoost to improve the performance of predictions.
-* Reviewed the DIVE analysis to uncover any shortcomings and fill those gaps with further analysis.
-* Performed analysis on Cost Optimization to extend beyond the DIVE analysis.
-* Gathered all deliverables and package them for submission.
+* Developed a functional data pipeline, adapting techniques and best practices learned from Lab 2. Provided guidance and support to team members to ensure consistent implementation and understanding of data ingestion, transformation, and model readiness workflows.
+
+* Led the development of advanced machine learning models, including an XGBoost regressor, to enhance forecasting accuracy. Tuned and evaluated multiple model configurations to achieve a significant improvement in predictive performance (R² = 0.8055).
+
+* Conducted an in-depth review of the team’s DIVE analysis, identifying gaps in the initial exploration and validation stages. Supplemented the existing insights with additional statistical evaluations and contextual observations to ensure analytical robustness.
+
+* Performed a targeted cost optimization study to identify stores with the highest forecast errors. Quantified financial inefficiencies and proposed store-level improvement opportunities. This analysis extended the DIVE framework by connecting model performance to potential business impact.
+
+* Managed the consolidation of all team deliverables. Ensured that all materials were clearly organized, technically sound, and aligned with project requirements for final submission.
+
+
+
