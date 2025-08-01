@@ -6,7 +6,10 @@ The repository is organized into the following main directories, with individual
 dive_analysis_report.pdf: The final, two-page DIVE Summary Report and Action Plan, representing the consolidated group deliverable.
  
 team_contribution.pdf: This file lists the contributions of each team member. 
- 
+
+
+## dive_analysis_report/
+Please click 'More Pages' to review all Appendix pages included in the dive_analysis_report. Appendix pages include Cost Optimization analysis and visualizations. 
  
 ## documents/
 This directory contains all the markdown documentation files, organized by team member.
